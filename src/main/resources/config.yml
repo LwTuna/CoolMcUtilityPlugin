@@ -1,0 +1,4 @@
+joinMessage : 'Welcome to the server, %player%!'
+quitMessage : '%player% has left the server.'
+databaseName : 'minecraft'
+firstJoinMessage : '%player% joined the Server for the first Time!'
